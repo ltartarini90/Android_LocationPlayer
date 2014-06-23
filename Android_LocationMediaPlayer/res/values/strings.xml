@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_LocationMediaPlayer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="play">Play</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="song_title">Song title</string>
+
+</resources>
